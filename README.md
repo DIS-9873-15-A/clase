@@ -1,7 +1,7 @@
 # clase
-Temas vistos en clase y ejemplos.
 
+Temas vistos en clase y ejemplos.
 
 ## Proyecto del Semestre
 
-(Requerimientos de Proyecto)[./01.md]
+[Requesitos del Proyecto](./01.md)
